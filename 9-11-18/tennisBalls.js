@@ -8,6 +8,4 @@ function ballCollector(detritus) {
   let ballWeight = (tennisBalls.length)*58;
   sack.weight = ballWeight;
   return sack
-}
-
-//9-11-2018 Code Wars of the Day
+};
